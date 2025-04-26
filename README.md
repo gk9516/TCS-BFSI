@@ -103,7 +103,7 @@ streamlit run app.py
 
 ## 👤 Author
 ```markdown
-Made with 💻 and ☕ by Ganesh Kumar
+Made by Ganesh Kumar
 ```
 
 [Link to the Application](https://gk9516-tcs-bfsi-credit-risk-app-o2dzp3.streamlit.app/)
